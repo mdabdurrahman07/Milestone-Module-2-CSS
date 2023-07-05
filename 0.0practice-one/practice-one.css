@@ -1,0 +1,13 @@
+#external{
+    background-color: blueviolet;
+    border: 5px;
+   border-style: dashed;
+   border-color: rgb(147, 246, 17);
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 900;
+   padding: 50px;
+   margin: 10px 18px;
+    border-radius: 50px 30px 60px 40px;
+     
+
+}
