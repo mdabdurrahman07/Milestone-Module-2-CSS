@@ -1,0 +1,36 @@
+#m-head{
+    background-color: Red;
+    border: 2px solid whitesmoke;
+    /* padding: 200px; */
+   
+
+}
+.pic-one{
+    width: 500px;
+    height:auto;
+    padding: 80px 150px;
+    /* object-position: 20px 30px; */
+   
+}
+#m-main{
+    background-color: green;
+    border: 2px solid whitesmoke;
+    /* padding: 200px; */
+}
+.pic-two{
+    width: 500px;
+    height:auto;
+    padding: 80px 150px;
+    /* object-position: 20px 30px; */
+}
+#m-footer{
+    background-color: rgb(37, 0, 246);
+    border: 2px solid whitesmoke;
+    /* padding: 200px; */
+}
+.footer-pic{
+    width: 500px;
+    height:auto;
+    padding: 80px 150px;
+    /* object-position: 50px 80px; */
+}
